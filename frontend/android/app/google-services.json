@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1030346125092",
+    "firebase_url": "https://garageezway-default-rtdb.firebaseio.com",
+    "project_id": "garageezway",
+    "storage_bucket": "garageezway.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030346125092:android:07cc6194cecb1dac86cdb1",
+        "android_client_info": {
+          "package_name": "com.company.garageezway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030346125092-34gth8j2dk865538f94fiqbo2hkn9s5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpI7T2WN21JYDOuJxLZHalEvHbCIHmhpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030346125092-34gth8j2dk865538f94fiqbo2hkn9s5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030346125092-oj411rulk2tdlh5sdvtbvce6poobaiao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frontend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030346125092:android:becc0354c489b90486cdb1",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030346125092-d1mf21dkrlrvuje90c3opfq38vrsn5i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frontend",
+            "certificate_hash": "71a0814aa15d28f9626e72925dd5b8ca8ea74925"
+          }
+        },
+        {
+          "client_id": "1030346125092-34gth8j2dk865538f94fiqbo2hkn9s5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpI7T2WN21JYDOuJxLZHalEvHbCIHmhpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030346125092-34gth8j2dk865538f94fiqbo2hkn9s5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030346125092-oj411rulk2tdlh5sdvtbvce6poobaiao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
